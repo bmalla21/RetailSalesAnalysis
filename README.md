@@ -1,4 +1,3 @@
-# RetailSalesAnalysis
 
 This project involves analyzing a retail sales dataset to uncover trends, understand sales patterns, and identify key factors that drive sales. By performing exploratory data analysis (EDA), we aim to generate actionable insights that can inform strategic business decisions.
 
